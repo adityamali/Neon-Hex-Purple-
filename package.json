@@ -1,0 +1,21 @@
+{
+  "name": "adityamali",
+  "displayName": "Neon Hex (Purple)",
+  "description": "A sleek, minimal dark theme with neon purple accents",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neon Hex (Purple)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neon Hex (Purple)-color-theme.json"
+      }
+    ]
+  }
+}

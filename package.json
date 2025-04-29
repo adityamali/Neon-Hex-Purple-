@@ -1,12 +1,12 @@
 {
-  "name": "neon-hex-purple",
-  "displayName": "Neon Hex (Purple)",
+  "name": "viora",
+  "displayName": "Viora",
   "description": "A sleek, minimal dark theme with neon purple accents",
   "publisher": "AdityaMali",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
             "type": "git",
-            "url": "[https://github.com/adityamali/Neon-Hex-Purple-.git](https://github.com/adityamali/Neon-Hex-Purple-.git)"
+            "url": "[https://github.com/adityamali/Viora.git](https://github.com/adityamali/Viora.git)"
         },
   "engines": {
     "vscode": "^1.90.0"
@@ -14,13 +14,13 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./images/logo.png",
+  "icon": "images/viora.png",
   "contributes": {
     "themes": [
       {
-        "label": "Neon Hex (Purple)",
+        "label": "Viora",
         "uiTheme": "vs-dark",
-        "path": "./themes/Neon Hex (Purple)-color-theme.json"
+        "path": "./themes/Viora-color-theme.json"
       }
     ]
   }

@@ -2,7 +2,7 @@
 
 A sleek, minimal dark theme for Visual Studio Code with vibrant neon purple accents.
 
-![Neon Hex (Purple) Theme Preview](./theme.png)
+![Neon Hex (Purple) Theme Preview](./images/theme.png)
 
 ## Description
 
